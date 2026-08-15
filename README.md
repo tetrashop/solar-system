@@ -71,3 +71,8 @@ MIT License
 <div align="center">
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
+
+## 🌐 دیپلوی
+
+- **URL:** [https://vercel.com/ramin-edjlal-s-projects/solar-system/7oWxBxnRUnyRtwwrUXT9ApGyK8yo](https://vercel.com/ramin-edjlal-s-projects/solar-system/7oWxBxnRUnyRtwwrUXT9ApGyK8yo)
+- **وضعیت:** ✅ فعال
