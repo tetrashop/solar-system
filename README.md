@@ -77,3 +77,8 @@ MIT License
 - **URL:** [https://vercel.com/ramin-edjlal-s-projects/solar-system/7oWxBxnRUnyRtwwrUXT9ApGyK8yo](https://vercel.com/ramin-edjlal-s-projects/solar-system/7oWxBxnRUnyRtwwrUXT9ApGyK8yo)
 - **وضعیت:** ✅ فعال
 <!-- Trigger deploy: Mon Aug 17 01:49:18 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://solar-system.vercel.app](https://solar-system.vercel.app)
+- **وضعیت:** ✅ فعال
